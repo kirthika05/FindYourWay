@@ -2,6 +2,10 @@ package com.example.kirthikas.findyourway;
 
 import java.util.Comparator;
 
+/**
+ * Created by kirthikas on 9/28/17.
+ */
+
 public class PathStateComparator implements Comparator<PathState> {
 
     private static int SORT_LEFT = -1;

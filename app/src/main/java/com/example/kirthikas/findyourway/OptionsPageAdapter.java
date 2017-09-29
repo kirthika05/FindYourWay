@@ -4,6 +4,10 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
+/**
+ * Created by kirthikas on 9/28/17.
+ */
+
 public class OptionsPageAdapter extends FragmentPagerAdapter {
 
     public OptionsPageAdapter(FragmentManager fragmentManager) {

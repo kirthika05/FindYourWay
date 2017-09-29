@@ -2,6 +2,7 @@
     <string name="title_home">Find Your Way</string>
     <string name="app_name">Find Your Way</string>
     <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
     <string name="no_results">Min Cost</string>
     <string name="Choose_test_data">Choose Test Data:</string>
     <string name="click_go_message">Then click below to find the lowest cost path:</string>
